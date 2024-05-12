@@ -1,4 +1,4 @@
-# Better Buy Electronics Store
+# Better Buy Grocery Store
 
 Desktop GUI
 
