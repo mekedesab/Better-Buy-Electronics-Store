@@ -1,1 +1,4 @@
-# Better-Buy-Electronics-Store
+# Better Buy Electronics Store
+
+Desktop GUI
+
